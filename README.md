@@ -50,6 +50,7 @@ An opinionated guide to the best Python frameworks, libraries, tools, and resour
 **Data & Science**
 
 - [Data Analysis](#data-analysis)
+- [Data Ingestion / ETL](#data-ingestion--etl)
 - [Data Validation](#data-validation)
 - [Data Visualization](#data-visualization)
 - [Geolocation](#geolocation)
@@ -484,6 +485,12 @@ _Libraries for data analysis._
   - [lumibot](https://github.com/Lumiwealth/lumibot) - Algorithmic trading framework for backtesting and live deployment across stocks, options, crypto, futures, and forex.
   - [openbb](https://github.com/OpenBB-finance/OpenBB) - A financial data platform for analysts, quants and AI agents.
   - [yfinance](https://github.com/ranaroussi/yfinance) - Easy Pythonic way to download market and financial data from Yahoo Finance.
+  
+### Data Ingestion / ETL
+
+_Libraries for extracting data from external sources and loading it into databases, warehouses, and lakehouses._
+
+- [dlt](https://github.com/dlt-hub/dlt) - A Python library for building data pipelines with automatic schema inference, incremental loading, and support for multiple sources and destinations.
 
 ### Data Validation
 
